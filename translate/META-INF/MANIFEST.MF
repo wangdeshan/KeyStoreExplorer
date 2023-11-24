@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: KeyStore Explorer
+Implementation-Version: 5.5.2
+Built-Date: 2023-01-21 22:34:46
+Sealed: true
+Specification-Vendor: Wayne Grant, Kai Kramer
+Specification-Title: KeyStore Explorer
+Class-Path: lib/bcpkix-jdk18on-1.72.jar lib/jna-5.12.1.jar lib/commons
+ -io-2.11.0.jar lib/miglayout-swing-5.3.jar lib/flatlaf-2.6.jar lib/ni
+ mbus-jose-jwt-9.25.6.jar lib/vaqua-10.jar lib/bcutil-jdk18on-1.72.jar
+  lib/bcprov-jdk18on-1.72.jar lib/miglayout-core-5.3.jar lib/jcip-anno
+ tations-1.0-1.jar lib/jnr-11.jar lib/vappearances-3.jar lib/javax.act
+ ivation-1.2.0.jar translate/
+Built-JDK: 1.8.0_352
+Specification-Version: 5.5.2
+Implementation-Vendor: Wayne Grant, Kai Kramer
+Main-Class: org.kse.KSE
+

@@ -1,0 +1,1 @@
+jre\bin\java --class-path .\translate;.\kse.jar org.kse.KSE
